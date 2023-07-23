@@ -1,0 +1,17 @@
+{
+    "name": "lukin/application",
+    "autoload": {
+        "psr-4": {
+            "Lukin\\Application\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Lucas Hortkoff",
+            "email": "Lukinh4shortkoff@hotmail.com"
+        }
+    ],
+    "require": {
+        "smalot/pdfparser": "^2.5"
+    }
+}
